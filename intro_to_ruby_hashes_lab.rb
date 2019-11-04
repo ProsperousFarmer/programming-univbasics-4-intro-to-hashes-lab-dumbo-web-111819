@@ -1,9 +1,9 @@
 def new_hash
-new_hash = Hash.new
+  new_hash = Hash.new
 end
 
 def my_hash
-  
+  my_hash = {key_1: "value"}
 end
 
 def pioneer

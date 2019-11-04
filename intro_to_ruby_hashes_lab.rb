@@ -20,7 +20,7 @@ end
 
 def read_from_hash(hash, key)
   hash_name = hash
-  puts hash_name[key]
+  hash_name[key]
 end
 
 def update_counting_hash(hash, key)
